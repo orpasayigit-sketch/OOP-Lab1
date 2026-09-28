@@ -1,0 +1,11 @@
+Run 1
+
+Stock updated
+Material needs calculated
+Invoice created
+
+Run 2
+
+Stock updated
+Material requirements calculated
+Invoice created
