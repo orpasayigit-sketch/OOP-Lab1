@@ -1,0 +1,8 @@
+Run 1
+
+WOOD-A: 3000
+GLUE-A: 50
+METAL-A: 0
+WOOD-A again: 3000
+
+
