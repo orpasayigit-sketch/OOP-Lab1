@@ -1,0 +1,15 @@
+Run 1 - Same object 25/10 quantity/lossPercent
+
+Created: WOOD-A
+
+Run 2 - Same object -5/10 quantity/lossPercent
+
+Exception in thread "main" java.lang.IllegalArgumentException: quantityPerUnit must be positive
+	at BomLine.<init>(BomLine.java:14)
+	at Main.main(Main.java:5)
+
+Run 3- Same object 25/500 quantity/lossPercent
+
+Exception in thread "main" java.lang.IllegalArgumentException: lossPercent must be between 0 and 99
+    at BomLine.<init>(BomLine.java:20)
+    at Main.main(Main.java:5)
