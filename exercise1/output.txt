@@ -1,0 +1,9 @@
+Run 1 - Same object through two references:
+
+a: CHAIR-B
+b: CHAIR-B
+
+Run 2 - Two independent objects:
+
+a: CHAIR-A
+b: CHAIR-B
